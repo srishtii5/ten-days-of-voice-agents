@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2025-11-24T19:19:20.901556",
+        "mood": "low",
+        "energy": "very low",
+        "objectives": [
+            "complete assignments"
+        ],
+        "summary": "You're feeling low with very low energy, and your goal is to complete assignments. My advice is to break down the task into smaller, manageable steps."
+    },
+    {
+        "timestamp": "2025-11-24T19:27:56.432339",
+        "mood": "very low",
+        "energy": "very low",
+        "objectives": [
+            "complete all my assignments"
+        ],
+        "summary": "To help with feeling low and having low energy, the suggestion is to start completing assignments by simply opening the easiest one and reading the first paragraph."
+    }
+]
