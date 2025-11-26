@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Abhishek",
+        "company": "Tarzan",
+        "email": "ninedoubleone@ymail.com",
+        "role": null,
+        "use_case": "integrating voice AI into chat support",
+        "team_size": "400",
+        "timeline": "Next week",
+        "timestamp": "2025-11-25T19:25:47.408111"
+    },
+    {
+        "name": "Abhishek",
+        "company": "Tarzan",
+        "email": "ninedoubleone@ymail.com",
+        "role": "Admin",
+        "use_case": "integrating voice AI into chat support",
+        "team_size": "400",
+        "timeline": "Next week",
+        "timestamp": "2025-11-25T19:26:39.729523"
+    },
+    {
+        "name": "Shishti",
+        "company": null,
+        "email": "shrishshti1223@gmail.com",
+        "role": "Student",
+        "use_case": "learning about natural language processing",
+        "team_size": null,
+        "timeline": "Next week",
+        "timestamp": "2025-11-26T19:30:43.056046"
+    },
+    {
+        "name": "Shresti",
+        "company": null,
+        "email": "agentpyzeroeight@gmail.com",
+        "role": "Student",
+        "use_case": "integrating AI into a sales website",
+        "team_size": null,
+        "timeline": "Next week",
+        "timestamp": "2025-11-26T19:40:05.917889"
+    }
+]
